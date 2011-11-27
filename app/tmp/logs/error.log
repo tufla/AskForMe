@@ -1,0 +1,251 @@
+2011-11-26 11:53:24 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-11-26 13:03:36 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-11-26 13:04:30 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-11-26 13:04:47 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-11-26 13:04:56 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-11-26 13:05:17 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-11-26 13:05:44 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-11-26 13:06:16 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-11-26 13:06:36 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-11-26 13:08:36 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-11-26 13:08:53 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-11-26 13:09:27 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-11-26 13:10:46 Error: [MissingControllerException] Controller class MessagesController could not be found.
+#0 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-11-26 13:16:18 Error: [MissingControllerException] Controller class MessagesController could not be found.
+#0 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-11-26 14:15:48 Error: [MissingViewException] View file "/home/tufla/work/workspace/askforme/app/View/Messages/json.ctp" is missing.
+#0 /home/tufla/work/workspace/askforme/lib/Cake/View/View.php(363): View->_getViewFileName(NULL)
+#1 /home/tufla/work/workspace/askforme/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(114): Controller->render()
+#3 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(MessagesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-11-26 14:17:16 Error: [MissingViewException] View file "/home/tufla/work/workspace/askforme/app/View/Messages/json.ctp" is missing.
+#0 /home/tufla/work/workspace/askforme/lib/Cake/View/View.php(363): View->_getViewFileName(NULL)
+#1 /home/tufla/work/workspace/askforme/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(114): Controller->render()
+#3 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(MessagesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-11-26 14:25:24 Error: [MissingViewException] View file "/home/tufla/work/workspace/askforme/app/View/Messages/json.ctp" is missing.
+#0 /home/tufla/work/workspace/askforme/lib/Cake/View/View.php(363): View->_getViewFileName(NULL)
+#1 /home/tufla/work/workspace/askforme/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(114): Controller->render()
+#3 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(MessagesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-11-26 14:25:47 Error: [MissingViewException] View file "/home/tufla/work/workspace/askforme/app/View/Messages/json.ctp" is missing.
+#0 /home/tufla/work/workspace/askforme/lib/Cake/View/View.php(363): View->_getViewFileName(NULL)
+#1 /home/tufla/work/workspace/askforme/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(114): Controller->render()
+#3 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(MessagesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-11-26 14:26:58 Error: [MissingViewException] View file "/home/tufla/work/workspace/askforme/app/View/Messages/json.ctp" is missing.
+#0 /home/tufla/work/workspace/askforme/lib/Cake/View/View.php(363): View->_getViewFileName(NULL)
+#1 /home/tufla/work/workspace/askforme/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(114): Controller->render()
+#3 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(MessagesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-11-26 14:30:02 Error: [MissingViewException] View file "/home/tufla/work/workspace/askforme/app/View/Messages/json.ctp" is missing.
+#0 /home/tufla/work/workspace/askforme/lib/Cake/View/View.php(363): View->_getViewFileName(NULL)
+#1 /home/tufla/work/workspace/askforme/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(114): Controller->render()
+#3 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(MessagesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-11-26 14:30:40 Error: [MissingViewException] View file "/home/tufla/work/workspace/askforme/app/View/Messages/json.ctp" is missing.
+#0 /home/tufla/work/workspace/askforme/lib/Cake/View/View.php(363): View->_getViewFileName(NULL)
+#1 /home/tufla/work/workspace/askforme/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(114): Controller->render()
+#3 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(MessagesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-11-26 14:39:36 Error: [MissingViewException] View file "/home/tufla/work/workspace/askforme/app/View/Messages/json.ctp" is missing.
+#0 /home/tufla/work/workspace/askforme/lib/Cake/View/View.php(363): View->_getViewFileName(NULL)
+#1 /home/tufla/work/workspace/askforme/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(114): Controller->render()
+#3 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(MessagesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-11-26 14:39:55 Error: [MissingViewException] View file "/home/tufla/work/workspace/askforme/app/View/Messages/json.ctp" is missing.
+#0 /home/tufla/work/workspace/askforme/lib/Cake/View/View.php(363): View->_getViewFileName(NULL)
+#1 /home/tufla/work/workspace/askforme/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(114): Controller->render()
+#3 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(MessagesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-11-26 14:40:02 Error: [MissingViewException] View file "/home/tufla/work/workspace/askforme/app/View/Messages/json_view.ctp" is missing.
+#0 /home/tufla/work/workspace/askforme/lib/Cake/View/View.php(363): View->_getViewFileName(NULL)
+#1 /home/tufla/work/workspace/askforme/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(114): Controller->render()
+#3 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(MessagesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-11-26 14:40:23 Error: [MissingViewException] View file "/home/tufla/work/workspace/askforme/app/View/Messages/json.ctp" is missing.
+#0 /home/tufla/work/workspace/askforme/lib/Cake/View/View.php(363): View->_getViewFileName(NULL)
+#1 /home/tufla/work/workspace/askforme/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(114): Controller->render()
+#3 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(MessagesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-11-26 14:40:40 Error: [MissingViewException] View file "/home/tufla/work/workspace/askforme/app/View/Messages/json.ctp" is missing.
+#0 /home/tufla/work/workspace/askforme/lib/Cake/View/View.php(363): View->_getViewFileName(NULL)
+#1 /home/tufla/work/workspace/askforme/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(114): Controller->render()
+#3 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(MessagesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-11-26 14:41:04 Error: [MissingViewException] View file "/home/tufla/work/workspace/askforme/app/View/Messages/json.ctp" is missing.
+#0 /home/tufla/work/workspace/askforme/lib/Cake/View/View.php(363): View->_getViewFileName(NULL)
+#1 /home/tufla/work/workspace/askforme/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(114): Controller->render()
+#3 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(MessagesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-11-26 14:41:22 Error: [MissingViewException] View file "/home/tufla/work/workspace/askforme/app/View/Messages/json.ctp" is missing.
+#0 /home/tufla/work/workspace/askforme/lib/Cake/View/View.php(363): View->_getViewFileName(NULL)
+#1 /home/tufla/work/workspace/askforme/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(114): Controller->render()
+#3 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(MessagesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-11-26 14:41:38 Error: [MissingViewException] View file "/home/tufla/work/workspace/askforme/app/View/Messages/json.ctp" is missing.
+#0 /home/tufla/work/workspace/askforme/lib/Cake/View/View.php(363): View->_getViewFileName(NULL)
+#1 /home/tufla/work/workspace/askforme/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(114): Controller->render()
+#3 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(MessagesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-11-26 14:41:38 Error: [MissingViewException] View file "/home/tufla/work/workspace/askforme/app/View/Messages/json.ctp" is missing.
+#0 /home/tufla/work/workspace/askforme/lib/Cake/View/View.php(363): View->_getViewFileName(NULL)
+#1 /home/tufla/work/workspace/askforme/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(114): Controller->render()
+#3 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(MessagesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-11-26 16:09:21 Error: [MissingTableException] Database table voicebunnies for model Voicebunny was not found.
+#0 /home/tufla/work/workspace/askforme/lib/Cake/Model/Model.php(3238): Model->setSource('voicebunnies')
+#1 /home/tufla/work/workspace/askforme/lib/Cake/Model/Model.php(720): Model->getDataSource()
+#2 /home/tufla/work/workspace/askforme/app/Controller/MessagesController.php(29): Model->__call('createProject', Array)
+#3 /home/tufla/work/workspace/askforme/app/Controller/MessagesController.php(29): AppModel->createProject()
+#4 [internal function]: MessagesController->send()
+#5 /home/tufla/work/workspace/askforme/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MessagesController), Array)
+#6 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#7 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(MessagesController), Object(CakeRequest), Object(CakeResponse))
+#8 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2011-11-26 16:18:12 Error: [MissingTableException] Database table voicebunnies for model Voicebunny was not found.
+#0 /home/tufla/work/workspace/askforme/lib/Cake/Model/Model.php(3238): Model->setSource('voicebunnies')
+#1 /home/tufla/work/workspace/askforme/lib/Cake/Model/Model.php(720): Model->getDataSource()
+#2 /home/tufla/work/workspace/askforme/app/Controller/MessagesController.php(29): Model->__call('createProject', Array)
+#3 /home/tufla/work/workspace/askforme/app/Controller/MessagesController.php(29): AppModel->createProject()
+#4 [internal function]: MessagesController->send()
+#5 /home/tufla/work/workspace/askforme/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MessagesController), Array)
+#6 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#7 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(MessagesController), Object(CakeRequest), Object(CakeResponse))
+#8 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2011-11-26 16:18:34 Error: [MissingTableException] Database table voicebunnies for model Voicebunny was not found.
+#0 /home/tufla/work/workspace/askforme/lib/Cake/Model/Model.php(3238): Model->setSource('voicebunnies')
+#1 /home/tufla/work/workspace/askforme/lib/Cake/Model/Model.php(720): Model->getDataSource()
+#2 /home/tufla/work/workspace/askforme/app/Controller/MessagesController.php(29): Model->__call('createProject', Array)
+#3 /home/tufla/work/workspace/askforme/app/Controller/MessagesController.php(29): AppModel->createProject()
+#4 [internal function]: MessagesController->send()
+#5 /home/tufla/work/workspace/askforme/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MessagesController), Array)
+#6 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#7 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(MessagesController), Object(CakeRequest), Object(CakeResponse))
+#8 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2011-11-26 16:21:00 Error: [MissingTableException] Database table voicebunnies for model Voicebunny was not found.
+#0 /home/tufla/work/workspace/askforme/lib/Cake/Model/Model.php(3238): Model->setSource('voicebunnies')
+#1 /home/tufla/work/workspace/askforme/lib/Cake/Model/Model.php(720): Model->getDataSource()
+#2 /home/tufla/work/workspace/askforme/app/Controller/MessagesController.php(29): Model->__call('createProject', Array)
+#3 /home/tufla/work/workspace/askforme/app/Controller/MessagesController.php(29): AppModel->createProject()
+#4 [internal function]: MessagesController->send()
+#5 /home/tufla/work/workspace/askforme/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MessagesController), Array)
+#6 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#7 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(MessagesController), Object(CakeRequest), Object(CakeResponse))
+#8 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2011-11-26 16:24:52 Error: [MissingControllerException] Controller class MesagesController could not be found.
+#0 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-11-26 16:25:32 Error: [MissingTableException] Database table voicebunnies for model Voicebunny was not found.
+#0 /home/tufla/work/workspace/askforme/lib/Cake/Model/Model.php(3238): Model->setSource('voicebunnies')
+#1 /home/tufla/work/workspace/askforme/lib/Cake/Model/Model.php(720): Model->getDataSource()
+#2 /home/tufla/work/workspace/askforme/app/Controller/MessagesController.php(29): Model->__call('createProject', Array)
+#3 /home/tufla/work/workspace/askforme/app/Controller/MessagesController.php(29): AppModel->createProject()
+#4 [internal function]: MessagesController->send()
+#5 /home/tufla/work/workspace/askforme/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MessagesController), Array)
+#6 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#7 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(MessagesController), Object(CakeRequest), Object(CakeResponse))
+#8 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2011-11-26 16:27:36 Error: [MissingTableException] Database table voicebunnies for model Voicebunny was not found.
+#0 /home/tufla/work/workspace/askforme/lib/Cake/Model/Model.php(3238): Model->setSource('voicebunnies')
+#1 /home/tufla/work/workspace/askforme/lib/Cake/Model/Model.php(720): Model->getDataSource()
+#2 /home/tufla/work/workspace/askforme/app/Controller/MessagesController.php(29): Model->__call('createProject', Array)
+#3 /home/tufla/work/workspace/askforme/app/Controller/MessagesController.php(29): AppModel->createProject()
+#4 [internal function]: MessagesController->send()
+#5 /home/tufla/work/workspace/askforme/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MessagesController), Array)
+#6 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#7 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(MessagesController), Object(CakeRequest), Object(CakeResponse))
+#8 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2011-11-26 16:28:29 Error: [MissingTableException] Database table voicebunnies for model Voicebunny was not found.
+#0 /home/tufla/work/workspace/askforme/lib/Cake/Model/Model.php(3238): Model->setSource('voicebunnies')
+#1 /home/tufla/work/workspace/askforme/lib/Cake/Model/Model.php(720): Model->getDataSource()
+#2 /home/tufla/work/workspace/askforme/app/Controller/MessagesController.php(29): Model->__call('createProject', Array)
+#3 /home/tufla/work/workspace/askforme/app/Controller/MessagesController.php(29): AppModel->createProject()
+#4 [internal function]: MessagesController->send()
+#5 /home/tufla/work/workspace/askforme/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(MessagesController), Array)
+#6 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#7 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(MessagesController), Object(CakeRequest), Object(CakeResponse))
+#8 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2011-11-26 17:21:33 Error: [MissingActionException] Action PagesController::display() could not be found.
+#0 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-11-26 17:21:53 Error: [MissingViewException] View file "/home/tufla/work/workspace/askforme/app/View/Pages/display.ctp" is missing.
+#0 /home/tufla/work/workspace/askforme/lib/Cake/View/View.php(363): View->_getViewFileName(NULL)
+#1 /home/tufla/work/workspace/askforme/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(114): Controller->render()
+#3 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#4 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-11-26 19:13:13 Error: [MissingActionException] Action PagesController::reads() could not be found.
+#0 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /home/tufla/work/workspace/askforme/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 /home/tufla/work/workspace/askforme/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
