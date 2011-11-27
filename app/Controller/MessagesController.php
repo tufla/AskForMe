@@ -22,8 +22,8 @@ class MessagesController extends AppController {
 	public function reads($projectId){
 		$this->viewClass = 'Json';
 		$this->RequestHandler->respondAs('json');
-		$project = $this->Voicebunny->getReadsByProject($projectId);
-		if(isset($project['reads'][0]['mp3']) && !empty($project['reads'][0]['mp3'])){
+		$reads = $this->Voicebunny->getReadsByProject($projectId);
+		if(isset($reads['reads'][0]['mp3']) && !empty($reads['reads'][0]['mp3'])){
 			//4092993229
 			$this->Twilio->call('4092993229','http://askforme.dev.voicebunny.com/taudio?f='.$reads['reads'][0]['mp3']);
 		}

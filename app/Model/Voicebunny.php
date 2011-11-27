@@ -45,7 +45,7 @@ class Voicebunny extends AppModel {
 	}
 	
 	public function getReadsByProject($projectId){
-		$url = "reads/index/{$projectId}";
+		$url = "projects/{$projectId}/reads";
 		$method = 'get';
 		list($status, $result) = $this->query(compact('url','method'));
 		if($status == 200){
