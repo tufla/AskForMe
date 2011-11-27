@@ -4,10 +4,7 @@
  * and open the template in the editor.
  */
 $types = array_combine(Set::extract('/code',$voicestypes), Set::extract('/name',$voicestypes));
-$script = <<<JS
 
-JS;
-$this->Js->buffer($script);
 ?>
 <h2>Send a message!</h2>
 <div style="padding: 20px; width: 550px;">
