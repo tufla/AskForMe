@@ -29,6 +29,7 @@
 /**
  * ...and connect the rest of 'Pages' controller's urls.
  */
+	Router::connect('/taudio/*', array('controller' => 'messages', 'action' => 'taudio'));
 	Router::connect('/send/*', array('controller' => 'messages', 'action' => 'send'));
 	Router::connect('/reads/*', array('controller' => 'messages', 'action' => 'reads'));
 	Router::connect('/pages/*', array('controller' => 'pages', 'action' => 'display'));

@@ -1,5 +1,5 @@
 <?php
-App::import('Vendor', 'Twilio');
+require_once APP.'Vendor'.DS.'Twilio.php';
 
 class Twilio extends AppModel {
     public $name = 'Twilio';
